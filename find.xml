@@ -13,5 +13,6 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.jsx</mask>
+    <mask>*.py</mask>
   </component>
 </application>
